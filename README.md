@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there!
+
+- I am currently pursuing an MS in CS while also looking for roles in software engineering.
+
+- Feel free to say *hi* 👋 through:
+    - 📫 ptaototo123@gmail.com
+    - or [LinkedIn]( https://www.linkedin.com/in/pesi-taototo/)!
+
+
 
 <!--
 **PE5I/PE5I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
